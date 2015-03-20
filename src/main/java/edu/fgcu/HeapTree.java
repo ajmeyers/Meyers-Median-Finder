@@ -85,7 +85,7 @@ class HeapTree<T extends Comparable<T>>{
 	}
 
 	public int getSize(){
-		return size;
+	  return size;
 	}
 
 	public T peek(){
